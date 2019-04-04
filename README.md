@@ -1,7 +1,7 @@
 ## Heroku Deploy Preparing a Spring Boot app for Heroku
 Before you can deploy the app to Heroku, you’ll need to create a Git repository for the application and add all of the code to it by running these commands
 
-> 1 git init
+> git init
 
 > git add .
 
